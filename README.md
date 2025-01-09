@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center">Senior Full-Stack Web & Mobile Developer.</h2>
 <h4 align="">Senior Full Stack Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, PHP, Laravel, Vue, Wordpress, React, React-Native etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
 
 
@@ -16,8 +15,7 @@
 
 ##
 
-<h3 align="center">I am available now and can start right now.</h3>
-<h2>My Major Skills</h2>
+<h3 align="center">My Major Skills</h3>
 
 ▲ Language : Dart | JavaScript | Android | C# | Swift | Kotlin | TypeScript | PHP | Python | Java |
 
