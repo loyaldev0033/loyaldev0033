@@ -60,3 +60,18 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loyaldev0033&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loyaldev0033)
+
+## 💻 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaldev0033&layout=compact)
+
+## 🏆 My Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=loyaldev0033)
