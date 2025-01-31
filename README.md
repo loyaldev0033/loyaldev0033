@@ -1,14 +1,8 @@
 <p align="center">
   <a href="" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20and%20Mobile%20Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Nice to meet you.
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 
-<h4 align="">Senior Full Stack Web Developer. I own a strong hold on different skills such as Dart, Android, Swift, kotlin, JavaScript, PHP, Laravel, Vue, Wordpress, React, React-Native etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
+<h4 align="">Senior Full Stack Web and Mobile Developer. I own a strong hold on different skills such as Dart, Android, Swift, kotlin, JavaScript, PHP, Laravel, Vue, Wordpress, React, React-Native etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
 
 
 ####  ![](https://img.shields.io/badge/Android-yellow) ![](https://img.shields.io/badge/Dart-teal) ![](https://img.shields.io/badge/Kotlin-orange) ![](https://img.shields.io/badge/Wordpress-blue) ![](https://img.shields.io/badge/Laravel-red) ![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-teal) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/ReactNative-blue) ![](https://img.shields.io/badge/Next-gray) ![](https://img.shields.io/badge/Node-green) ![](https://img.shields.io/badge/AWS-orange) ![](https://img.shields.io/badge/MySQL-green) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/MonoDB-teal) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Git-blue)
